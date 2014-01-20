@@ -1,0 +1,19 @@
+tsh> tsh> tsh> tsh> tsh> tsh> tsh> tsh> tsh> tsh> tsh> tsh> tsh> cxzczxc: Command not found
+tsh> tsh> sad'asd: Command not found
+tsh> as;dasdas;das;f'as;f': Command not found
+tsh> tsh> Error: unmatched '.
+tsh> ad: Command not found
+tsh> asd: Command not found
+tsh> asd: Command not found
+tsh> asd: Command not found
+tsh> asd: Command not found
+tsh> as: Command not found
+tsh> das: Command not found
+tsh> das: Command not found
+tsh> das: Command not found
+tsh> d: Command not found
+tsh> asd: Command not found
+tsh> asd: Command not found
+tsh> asd: Command not found
+tsh> asd: Command not found
+tsh> fgets error
